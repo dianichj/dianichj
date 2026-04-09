@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Diana%20Chiang%20Jurado&fontSize=38&fontColor=4cc9f0&fontAlignY=40&desc=Imaging%20Scientist%20%26%20Science%20Storyteller&descAlignY=62&descColor=a0a0b0&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=4CC9F0&center=true&vCenter=true&width=700&lines=Biological+%26+Medical+Image+Analysis;Galaxy+Platform+%7C+SPOC+%7C+Image+Analysis+in+Galaxy;Workflows+%7C+Tutorials+%7C+Open+Science;PhD+Cardiology+%7C+MSc+Medicine+%7C+Science+Storyteller" alt="Typing SVG" />
-</a>
+# Diana Chiang Jurado
+### Imaging Scientist & Science Storyteller · University of Freiburg
 
 <br/>
 
@@ -123,16 +120,6 @@ My work lives at the intersection of **biological imaging, translational medicin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dianichj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4cc9f0&icon_color=4cc9f0&text_color=a0a0b0&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianichj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4cc9f0&text_color=a0a0b0" height="160"/>
-
-<br/><br/>
-
 *"Turning pixels into discovery, one workflow at a time."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
