@@ -17,6 +17,8 @@
 &nbsp;
 [![WorkflowHub](https://img.shields.io/badge/WorkflowHub-Workflows-555?style=flat-square&logoColor=white)](https://workflowhub.eu/people/808)
 
+[![Euro-BioImaging Ambassador](https://img.shields.io/badge/Euro--BioImaging_Ambassador-2026-FF6B6B?style=flat-square&logoColor=white)](https://www.eurobioimaging.eu/scientific-ambassadors/meet-our-scientific-ambassadors/scientific-ambassadors-2026/)
+
 </div>
 
 ---
@@ -30,7 +32,7 @@ My work lives at the intersection of **biological imaging, translational medicin
 - Developing and documenting **bioimage analysis workflows** in Galaxy 
 - Active member of **[Image Analysis in Galaxy](https://galaxyproject.org/community/sig/image-analysis/)** and **[SPOC](https://galaxyproject.org/community/sig/singlecell/)** communities
 - Author of imaging & single-cell tutorials in the **Galaxy Training Network**
-- **Topic Editor for Single Cell** at GTN · Instructor & organizer at **Galaxy Training Academy 2025 & 2026**
+- **Scientific Editor, GTN Single Cell topic** at GTN · Instructor & organizer at **Galaxy Training Academy 2025 & 2026**
 - PhD in **Molecular Cardiology** · MSc in **Medicine** (clinical research in solid organ transplantation and infectious diseases)
 - Passionate about **medical imaging** and its potential in translational research
 
