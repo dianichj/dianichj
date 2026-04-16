@@ -118,26 +118,6 @@ My work lives at the intersection of **biological imaging, translational medicin
 
 ---
 
-## 🌍 Community & Events
-
-<div align="center">
-
-| Event | Role | Year |
-|---|---|---|
-| [Galaxy Training Academy 2026](https://training.galaxyproject.org/training-material/events/2026-05-18-galaxy-academy.html) | Organizing committee & Instructor | 2026 |
-| [HTS Workshop — Freiburg](https://training.galaxyproject.org/training-material/events/2026-03-09-hts-workshop-freiburg.html) | Instructor | 2026 |
-| [Love Data Week — University of Freiburg](https://training.galaxyproject.org/training-material/events/2026-02-09-love-data-week-ufr.html) | Speaker | 2026 |
-| [European BioHackathon 2025 — FAIR Image Analysis (Project 9)](https://galaxyproject.org/news/2025-12-17-eu-biohackathon2025/) | Project co-lead | 2025 |
-| [EOSC Symposium 2025](https://galaxyproject.org/news/2025-11-13-eosc-symposium2025/) |[Video contributor](https://www.youtube.com/watch?v=2w8okrORVtM&t=1s) — featured in EOSC remake | 2025 |
-| [Galaxy Training Academy 2025](https://training.galaxyproject.org/training-material/events/2025-05-12-galaxy-academy-2025.html) | Organizing committee & Instructor | 2025 |
-| [Galaxy Imaging Hackathon 2025](https://galaxyproject.org/events/2025-04-22-galaxy-imaging-hackathon/) | Organizer and Contributor | 2025 |
-| [Postdoc Appreciation Week Germany 2025](https://galaxyproject.org/events/2025-09-16-paw-talk/) | Speaker | 2025 |
-| [NFDI4Bioimage All-Hands-Meeting 2025](https://galaxyproject.org/news/2025-03-04-nfdi4bioimage-news-post/) | Poster presenter | 2025 |
-
-</div>
-
----
-
 ## 🎤 Talks & Workshops
 
 ### 📅 Upcoming
