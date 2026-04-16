@@ -122,25 +122,17 @@ My work lives at the intersection of **biological imaging, translational medicin
 
 ### 📅 Upcoming
 
-<div align="center">
-
 | Event | Role | Date |
 |---|---|---|
 | [19th OME Community Meeting 2026 — Düsseldorf](https://galaxyproject.org/events/2026-04-28-ome-meeting2026/) | Workshop Instructor | Apr 28–30, 2026 |
 | [8th International Symposium on Image-based Systems Biology](https://asb-conference.hki-jena.de/) | Guest Speaker | Sep 17–18, 2026 |
 
-</div>
-
 ### 🕐 Recent
-
-<div align="center">
 
 | Event | Role | Date |
 |---|---|---|
 | [Euro-BioImaging Image Data Community Days 2026](https://galaxyproject.org/events/2026-04-08-eubi-datadays/) | Speaker | Apr 13, 2026 |
 | [Love Data Week — University of Freiburg](https://cdf.uni-freiburg.de/en/events/2026-02-09-love-data-week.html) | Speaker | Feb 11, 2026 |
-
-</div>
 
 ---
 
