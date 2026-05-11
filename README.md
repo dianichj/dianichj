@@ -1,7 +1,7 @@
 <div align="center">
 
 # Diana Chiang Jurado
-### Imaging Scientist & Science Storyteller · University of Freiburg
+### Imaging Scientist & Science Storyteller
 
 <br/>
 
