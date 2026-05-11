@@ -128,7 +128,8 @@ My work lives at the intersection of **biological imaging, translational medicin
 
 | Event | Role | Date |
 |---|---|---|
-| [8th International Symposium on Image-based Systems Biology](https://asb-conference.hki-jena.de/) | Guest Speaker & Workshop Instructor | Sep 17–18, 2026 |
+| [2026 Galaxy Community Conference (GCC2026)](https://galaxyproject.org/events/gcc2026/schedule/) | Galaxy Live! Co-presenter | Jun 22, 2026 |
+| [8th International Symposium on Image-based Systems Biology](https://asb-conference.hki-jena.de/) | Guest Speaker & Workshop Instructor | Sep 15–18, 2026 |
 
 </div>
 
