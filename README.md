@@ -1,7 +1,7 @@
 <div align="center">
 
 # Diana Chiang Jurado
-### Data Scientist | Biomedical Data & Health Research | Galaxy Europe | Dr. rer. nat.
+### Data Scientist | Biomedical & Imaging Data | Galaxy Europe | Dr. rer. nat. 
 
 <br/>
 
