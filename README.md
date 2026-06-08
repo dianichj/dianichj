@@ -1,7 +1,7 @@
 <div align="center">
 
 # Diana Chiang Jurado
-### Imaging Scientist & Science Storyteller
+### Data Scientist & Science Storyteller
 
 <br/>
 
