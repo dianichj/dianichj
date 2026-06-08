@@ -25,16 +25,18 @@
 
 ## 😊 About Me
 
-I'm a Scientist & Science Storyteller at the **University of Freiburg**, building open, reproducible single-cell and image analysis workflows. I also contribute to training resources for the global research community through the wonderful **[Galaxy Platform](https://usegalaxy.eu)**.
+I'm a Data Scientist & Science Communicator with a Dr. rer. nat. focused on Cardiovascular Immunology. I currently work at Galaxy Europe, part of the Department of Computer Science at the Faculty of Engineering, University of Freiburg, where I develop open and reproducible data analysis workflows for biomedical research and contribute to Galaxy tutorials and tools.
+My work sits at the intersection of biomedical data science, health research, and open science: from single-cell omics and bioimage analysis to clinical data and translational medicine.
+I want to deliver data-driven solutions that lead to real impact on people's health. 🔬
 
-My work lives at the intersection of **biological imaging, translational medicine, and open science** — and I believe that good science deserves to be told well.
+Some of the things that I do include:
+- Developing and documenting bioimage and single-cell analysis tutorials and workflows
+- Being an active member of Image Analysis in Galaxy and SPOC communities
+- Authoring of imaging & single-cell tutorials in the Galaxy Training Network
+- Scientific Editor, GTN Single Cell topic
+- Instructor & organizer at Galaxy Training Academy 2025 & 2026
 
-- Developing and documenting **bioimage analysis workflows** in Galaxy 
-- Active member of **[Image Analysis in Galaxy](https://galaxyproject.org/community/sig/image-analysis/)** and **[SPOC](https://galaxyproject.org/community/sig/singlecell/)** communities
-- Author of imaging & single-cell tutorials in the **Galaxy Training Network**
-- **Scientific Editor, GTN Single Cell topic** at GTN · Instructor & organizer at **Galaxy Training Academy 2025 & 2026**
-- PhD in **Molecular Cardiology** · MSc in **Medicine** (clinical research in solid organ transplantation and infectious diseases)
-- Passionate about **medical imaging** and its potential in translational research
+I have been a postdoc since August 2024 at the Chair for Bioinformatics, University of Freiburg. My credentials include a Dr. rer. nat. (PhD) in cardiovascular immunology, focused on translational medicine and interventional preclinical cardiological research; an MSc in Medicine with a focus on clinical research in solid organ transplantation and infectious diseases; and undergraduate studies in biological sciences, psychology, and human medicine.
 
 ---
 
