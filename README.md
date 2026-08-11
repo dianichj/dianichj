@@ -25,9 +25,7 @@
 
 ## 😊 About Me
 
-I'm a Data Scientist & Science Communicator with a Dr. rer. nat. focused on Cardiovascular Immunology. I currently work at Galaxy Europe, part of the Department of Computer Science at the Faculty of Engineering, University of Freiburg, where I develop open and reproducible data analysis workflows for biomedical research and contribute to Galaxy tutorials and tools.
-My work sits at the intersection of biomedical data science, health research, and open science: from single-cell omics and bioimage analysis to clinical data and translational medicine.
-I want to deliver data-driven solutions that lead to real impact on people's health. 🔬
+I'm a Data Scientist & Science Communicator with a Dr. rer. nat. focused on Cardiovascular Immunology. I currently work at Galaxy Europe, where I develop open and reproducible data analysis workflows for biomedical research and contribute to Galaxy tutorials and tools. My work sits at the intersection of biomedical data science, health research, and open science: from single-cell omics and bioimage analysis to clinical data and translational medicine. I want to deliver data-driven solutions that lead to real impact on people's health. 🔬
 
 Some of the things that I do include:
 - Developing and documenting bioimage and single-cell analysis tutorials and workflows
