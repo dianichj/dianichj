@@ -38,6 +38,22 @@ I have been a postdoc since August 2024 at the Chair for Bioinformatics, Univers
 
 ---
 
+## 📰 Science Communication
+
+<div align="center">
+
+**[The Small Print](https://thesmallprint.pub)** — an independent bilingual (EN/ES) publication I write and edit, translating real scientific research for curious, non-scientist readers. Each article ends with *The Small Print §*: the nuances, the honest interpretation, and what the headlines usually get wrong.
+
+[![The Small Print](https://img.shields.io/badge/The_Small_Print-Read-1e2d3d?style=flat-square&logoColor=white)](https://thesmallprint.pub)
+&nbsp;
+[![Source](https://img.shields.io/badge/Source-Astro-0d7377?style=flat-square&logo=astro&logoColor=white)](https://github.com/dianichj/the-small-print)
+
+*From the study to you.*
+
+</div>
+
+---
+
 ## 🛠️ Tools & Stack
 
 <div align="center">
