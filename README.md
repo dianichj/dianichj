@@ -68,7 +68,7 @@ I have been a postdoc since August 2024 at the Chair for Bioinformatics, Univers
 ![QuPath](https://img.shields.io/badge/QuPath-6A0DAD?style=flat-square&logoColor=white)
 ![ImageJ/FIJI](https://img.shields.io/badge/ImageJ%2FFIJI-00A36C?style=flat-square&logoColor=white)
 ![BioImage.IO](https://img.shields.io/badge/BioImage.IO-FF6F61?style=flat-square&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/3D_Slicer-f4a261?style=flat-square&logoColor=white)
+![OMERO](https://img.shields.io/badge/OMERO-0072B5?style=flat-square&logoColor=white)
 ![DICOM](https://img.shields.io/badge/DICOM-3a0ca3?style=flat-square&logoColor=white)
 
 **Single-Cell & Genomics**
