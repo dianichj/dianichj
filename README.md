@@ -138,22 +138,13 @@ I have been a postdoc since August 2024 at the Chair for Bioinformatics, Univers
 
 ## 🎤 Talks & Workshops
 
-### 📅 Upcoming
-
-<div align="center">
-
-| Event | Role | Date |
-|---|---|---|
-| [8th International Symposium on Image-based Systems Biology](https://asb-conference.hki-jena.de/) | Guest Speaker & Workshop Instructor | Sep 15–18, 2026 |
-
-</div>
-
 ### 🕐 Recent
 
 <div align="center">
 
 | Event | Role | Date |
 |---|---|---|
+| [8th International Symposium on Image-based Systems Biology](https://asb-conference.hki-jena.de/) | Guest Speaker & Workshop Instructor | Sep 15–18, 2026 |
 | [2026 Galaxy Community Conference (GCC2026)](https://galaxyproject.org/events/gcc2026/schedule/) | Galaxy Live! Co-presenter | Jun 22, 2026 |
 | [19th OME Community Meeting 2026 — Düsseldorf](https://galaxyproject.org/events/2026-04-28-ome-meeting2026/) | Workshop Instructor | Apr 28–30, 2026 |
 | [Euro-BioImaging Image Data Community Days 2026](https://galaxyproject.org/events/2026-04-08-eubi-datadays/) | Speaker | Apr 13, 2026 |
