@@ -17,7 +17,7 @@
 
 ### `> about_me`
 
-I started at the patient’s bedside, in clinical research, where I learned which questions really matter for patients. I then moved to the bench, studying how the immune system responds after a heart attack performing laboratory experiments in preclinical models and human transcriptomics data. hen I made the jump to the computational side, to dive into data science and open, reproducible research. Today I bring all three together: building reproducible workflows for single-cell and imaging data, while still thinking like a clinician and a biologist when I look at the results.
+I started at the patient’s bedside, in clinical research, where I learned which questions really matter for patients. I then moved to the bench, studying how the immune system responds after a heart attack performing laboratory experiments in preclinical models and human transcriptomics data. For my postdoc, I made the jump to the computational side, to dive into data science and open, reproducible research. Today I bring all three together: building reproducible workflows for single-cell and imaging data, while still thinking like a clinician and a biologist when I look at the results.
 
 ```diff
 + FOCUS ....... single-cell · bioimage analysis · translational research
