@@ -1,7 +1,7 @@
 <div align="center">
 
-# Diana Chiang Jurado
-### Computational Biologist | Translational Medical Scientist  Dr. rer. nat. 
+# Diana Chiang Jurado Dr. rer. nat. 
+### Computational Biologist | Translational Medical Scientist 
 
 <br/>
 
