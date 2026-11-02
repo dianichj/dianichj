@@ -98,8 +98,8 @@ A bilingual (EN/ES) publication I write and edit, translating real research for 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=dianichj&show_icons=true&hide_border=true&bg_color=0A0F0A&title_color=33FF66&text_color=A8FFB8&icon_color=33FF66" alt="GitHub stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianichj&layout=compact&hide_border=true&bg_color=0A0F0A&title_color=33FF66&text_color=A8FFB8" alt="Top languages" />
+<img height="155" src="assets/stats.svg" alt="GitHub stats for dianichj" />
+<img height="155" src="assets/top-langs.svg" alt="Top languages for dianichj" />
 
 </div>
 
