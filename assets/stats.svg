@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="GitHub stats for dianichj">
+<title>GitHub stats for dianichj</title>
+<style>text{font-family:'VT323','IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;}</style>
+<rect width="400" height="200" rx="6" fill="#0A0F0A"/>
+<rect x="0.5" y="0.5" width="399" height="199" rx="6" fill="none" stroke="#1C3A22"/>
+<circle cx="18" cy="16" r="4" fill="#1C3A22"/><circle cx="32" cy="16" r="4" fill="#1C3A22"/><circle cx="46" cy="16" r="4" fill="#1C3A22"/>
+<text x="20" y="48" fill="#33FF66" font-size="17">&gt; git stats --user dianichj</text>
+<text x="20" y="76" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">commits </tspan><tspan fill="#1C3A22">.........</tspan><tspan fill="#33FF66" font-weight="bold"> 660</tspan></text>
+<text x="20" y="96" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">pull_requests </tspan><tspan fill="#1C3A22">...</tspan><tspan fill="#33FF66" font-weight="bold"> 74</tspan></text>
+<text x="20" y="116" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">merged_prs </tspan><tspan fill="#1C3A22">......</tspan><tspan fill="#33FF66" font-weight="bold"> 70</tspan></text>
+<text x="20" y="136" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">issues </tspan><tspan fill="#1C3A22">..........</tspan><tspan fill="#33FF66" font-weight="bold"> 21</tspan></text>
+<text x="20" y="156" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">stars_earned </tspan><tspan fill="#1C3A22">....</tspan><tspan fill="#33FF66" font-weight="bold"> 0</tspan></text>
+<text x="20" y="176" font-size="15" xml:space="preserve"><tspan fill="#33FF66">+ </tspan><tspan fill="#A8FFB8">public_repos </tspan><tspan fill="#1C3A22">....</tspan><tspan fill="#33FF66" font-weight="bold"> 3</tspan></text>
+</svg>

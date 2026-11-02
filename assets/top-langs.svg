@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" role="img" aria-label="Top languages for dianichj">
+<title>Top languages for dianichj</title>
+<style>text{font-family:'VT323','IBM Plex Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;}</style>
+<rect width="400" height="200" rx="6" fill="#0A0F0A"/>
+<rect x="0.5" y="0.5" width="399" height="199" rx="6" fill="none" stroke="#1C3A22"/>
+<circle cx="18" cy="16" r="4" fill="#1C3A22"/><circle cx="32" cy="16" r="4" fill="#1C3A22"/><circle cx="46" cy="16" r="4" fill="#1C3A22"/>
+<text x="20" y="48" fill="#33FF66" font-size="17">&gt; cat top_languages.log</text>
+<rect x="20.0" y="62" width="290.0" height="8" fill="#33FF66"/>
+<rect x="310.0" y="62" width="43.0" height="8" fill="#22C55E"/>
+<rect x="353.0" y="62" width="16.1" height="8" fill="#86EFAC"/>
+<rect x="369.1" y="62" width="7.4" height="8" fill="#15803D"/>
+<rect x="376.5" y="62" width="3.1" height="8" fill="#BBF7D0"/>
+<rect x="379.6" y="62" width="1.5" height="8" fill="#166534"/>
+<rect x="20" y="89" width="9" height="9" fill="#33FF66"/><text x="36" y="98" font-size="15" fill="#A8FFB8">Astro <tspan fill="#33FF66">80.6%</tspan></text>
+<rect x="205" y="89" width="9" height="9" fill="#22C55E"/><text x="221" y="98" font-size="15" fill="#A8FFB8">R <tspan fill="#33FF66">11.9%</tspan></text>
+<rect x="20" y="113" width="9" height="9" fill="#86EFAC"/><text x="36" y="122" font-size="15" fill="#A8FFB8">JavaScript <tspan fill="#33FF66">4.5%</tspan></text>
+<rect x="205" y="113" width="9" height="9" fill="#15803D"/><text x="221" y="122" font-size="15" fill="#A8FFB8">Python <tspan fill="#33FF66">2.1%</tspan></text>
+<rect x="20" y="137" width="9" height="9" fill="#BBF7D0"/><text x="36" y="146" font-size="15" fill="#A8FFB8">TypeScript <tspan fill="#33FF66">0.8%</tspan></text>
+<rect x="205" y="137" width="9" height="9" fill="#166534"/><text x="221" y="146" font-size="15" fill="#A8FFB8">CSS <tspan fill="#33FF66">0.1%</tspan></text>
+</svg>
